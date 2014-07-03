@@ -7,7 +7,6 @@ githubUsername: mb21
 twitterUsername: mb2100
 
 # Build settings
-# markdown: kramdown
 permalinks: pretty
 
 # Plugins
