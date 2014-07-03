@@ -1,7 +1,9 @@
 # Site settings
-title: "mb21’s blog"
+name: "mb21’s blog"
 description: "about society, philosophy, design, movies, tech, etc."
 url: "http://mb21.github.io/blog"
+githubUsername: mb21
+twitterUsername: mb2100
 
 # Build settings
 # markdown: kramdown
