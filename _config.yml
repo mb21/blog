@@ -1,0 +1,18 @@
+# Site settings
+title: "mb21’s blog"
+description: "about society, philosophy, design, movies, tech, etc."
+url: "http://mb21.github.io/blog"
+
+# Build settings
+# markdown: kramdown
+permalinks: pretty
+
+# Plugins
+pandoc:
+  skip: false
+  impose: false
+  output: ./tmp
+  flags:
+  site_flags:
+  outputs:
+    html:
