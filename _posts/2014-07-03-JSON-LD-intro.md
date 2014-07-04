@@ -7,7 +7,7 @@ categories: tech
 
 Personally, I find RDF/XML the most horrible serialization of a graph and a lot can be said against specific RDF tools. However, I think the basic model of RDF is pretty sound: everything is expressed as a bunch of triples, each of the format "subject predicate object" (e.g. "Peter knows Manu"), where all three words can actually be expanded to fully qualified IRIs, or the object can also be a literal. An IRI is a [Internationalized resource identifier](http://en.wikipedia.org/wiki/Internationalized_resource_identifier) and a literal a string, number, date or similar which can also be typed.
 
-That's why I'm quite excited by a new RDF serialization format called [JSON-LD](http://json-ld.org/) which is also valid JSON. To get a few things straight for myself, I've written up this introduction which is heavily inspired by the examples in the [spec](http://www.w3.org/TR/json-ld/).
+That's why I'm quite excited by a new RDF serialization format called [JSON-LD](http://json-ld.org/) which is also valid JSON. To get a few things straight for myself, I've written up this introduction which is heavily inspired by the examples in the [specification](http://www.w3.org/TR/json-ld/).
 
 Let's say we have some existing JSON:
 
@@ -134,7 +134,7 @@ In addition to the usage of `"@type": "@"id"` in the context to declare that a v
 
 Note again that `@id` when used in the context behaves a bit odd: in the example above, `"@id": "http://schema.org/name"` provides information about `"name"` (namely that it's a shorthand for `"http://schema.org/name"`), whereas `@id` when used inline (i.e. not in the context) and `@type` always refer to the JSON object they are a part of. For example `"@type": "xsd:string"` specifies that the target of `"name"`, not `"name"` itself, is of type `xsd:string`.
 
-A final thing to mention, which is actually intuitive, is that not only literals but also proper resources can be embedded as property values:
+A final thing to mention, which is intuitive again, is that not only literals but also entire resources can be embedded as property values:
 
     {
       "@context": {
@@ -155,3 +155,5 @@ A final thing to mention, which is actually intuitive, is that not only literals
         "name": "Peter"
       }
     }
+
+There are a few more things that might be good to know, so feel free to have a look at the also quite readable [specification](http://www.w3.org/TR/json-ld/).
