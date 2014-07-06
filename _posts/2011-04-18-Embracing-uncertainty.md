@@ -2,7 +2,7 @@
 layout: post
 title:  "Embracing uncertainty"
 date:   2011-04-18
-categories: philosophy
+tags: philosophy
 ---
 
 There are certainly many ways to come to personal self-confidence and peace of mind. One way may be faith, another (I guess my way) is to embrace uncertainty. That is to say: “hey, I don’t know what’s going to happen, but whatever happens, I’ll give my best”.

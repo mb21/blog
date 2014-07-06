@@ -2,7 +2,7 @@
 layout: post
 title:  "Why do some people hate Apple"
 date:   2011-10-10
-categories: design
+tags: design
 ---
 
 I just entered “why consumers should care about design” into Google, excluding results about *health care* and what I stumbled over was not exactly what I was looking for, but interesting nonetheless. It was this article by The Guardian: [Why do some people really hate Apple?](http://www.guardian.co.uk/technology/2011/oct/06/why-do-people-hate-apple) The author writes:

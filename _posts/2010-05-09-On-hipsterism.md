@@ -2,7 +2,7 @@
 layout: post
 title:  "On Hipsterism"
 date:   2010-05-09
-categories: society
+tags: society
 ---
 
 Today I realized I had to read up on Hipsterdom, get this phenomenon straight for me. So I headed to [Wikipedia](http://en.wikipedia.org/wiki/Hipster_(contemporary_subculture)) (“middle class adults and older teenagers with interests in non-mainstream fashion and culture, particularly alternative music, indie rock, independent film”) and grabbed the article’s first three References. Here are my sources, my mashing them up (note: I’m not sure I necessarily agree with everything being quoted) and in the end my personal conclusion.

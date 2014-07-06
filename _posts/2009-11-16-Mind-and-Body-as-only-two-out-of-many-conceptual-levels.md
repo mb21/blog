@@ -2,7 +2,7 @@
 layout: post
 title:  "Mind and Body as only two out of many conceptual levels"
 date:   2009-11-16
-categories: philosophy movies tech
+tags: philosophy movies tech
 ---
 
 I just watched [Ghost in the Shell](http://en.wikipedia.org/wiki/Ghost_in_the_Shell_%28film%29) once again. Love it. Got into a discussion about *Mind/Body*or *Mind/Matter dualism* after that – is a person’s mind in some way something non-physical or not? A lot of the talk surrounding this question seems kind of weird to me. Because the way I have come to understand or imagine the world, is that words/concepts like *mind, consciousness, thoughts*and even *emotions* are just a handy vocabulary to talk about certain properties of a physical object (like the brain).

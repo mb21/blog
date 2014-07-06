@@ -2,7 +2,7 @@
 layout: post
 title:  "Infinite economic growth, space and population growth"
 date:   2012-06-16
-categories: society
+tags: society
 ---
 
 ### Growth in energy consumption

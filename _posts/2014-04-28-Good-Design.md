@@ -2,7 +2,7 @@
 layout: post
 title:  "Good Design"
 date:   2014-04-28
-categories: design
+tags: design
 ---
 
 Good design is when you see and feel that the work was done properly. “Properly” may be an old-fashioned word, yet it describes best what I consider good design: the result of, and the process of applying the old-fashioned work-ethic of careful craftsmanship to the creation of industrially produced (or post-industrially, like virtual or 3D-printed) artefacts.

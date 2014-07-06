@@ -2,7 +2,7 @@
 layout: post
 title:  "Parallel and Concurrent Programming Models"
 date:   2012-08-16
-categories: tech
+tags: tech
 ---
 
 This is a simple (non-exhaustive) categorization of different approaches for parallel and concurrent programming, inspired by [Parallel and Concurrent Programming in Haskell](http://community.haskell.org/~simonmar/par-tutorial.pdf) (PDF). They state that parallelism and concurrency are two solutions to two different problems (as do [others](http://existentialtype.wordpress.com/2011/03/17/parallelism-is-not-concurrency/)).

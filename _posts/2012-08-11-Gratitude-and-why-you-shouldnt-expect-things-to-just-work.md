@@ -2,7 +2,7 @@
 layout: post
 title:  "Gratitude and why you shouldn’t expect things to “just work”"
 date:   2012-08-11
-categories: philosophy
+tags: philosophy
 ---
 
 > I’m utterly convinced that the key to lifelong success is the regular exercise of a single emotional muscle: gratitude.

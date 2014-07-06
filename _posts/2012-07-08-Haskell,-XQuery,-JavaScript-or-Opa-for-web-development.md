@@ -2,7 +2,7 @@
 layout: post
 title:  "Haskell, XQuery, JavaScript or Opa for web development"
 date:   2012-07-08
-categories: tech
+tags: tech
 ---
 
 This is a follow up on a previous post of mine, [XQuery, Node.js and Opa – which is the “new Java” of web development?](http://mb2100.wordpress.com/2012/05/19/xquery-node-js-and-opa-which-is-the-new-java-of-web-development/ "XQuery, Node.js and Opa – which is the “new Java” of web development?"). So here comes the table…

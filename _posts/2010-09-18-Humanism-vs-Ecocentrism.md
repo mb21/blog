@@ -2,7 +2,7 @@
 layout: post
 title:  "Humanism vs. Ecocentrism"
 date:   2010-09-18
-categories: society
+tags: society
 ---
 
 I just read [Confessions of a recovering environmentalist](http://www.opendemocracy.net/paul-kingsnorth/confessions-of-recovering-environmentalist) by Paul Kingsnorth, co-founder of the [Dark Mountain Project](http://www.dark-mountain.net/). His writing style is great but there is one key point in which I beg to differ: I do not see humans solely as a plague that has befallen nature, I see them as a part of nature.

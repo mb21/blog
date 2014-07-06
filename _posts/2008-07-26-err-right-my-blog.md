@@ -2,7 +2,7 @@
 layout: post
 title:  "err… right, my blog…"
 date:   2008-07-26
-categories:
+tags:
 ---
 
 Generally, I’m a very technology-friendly person. But strangely enough I’m sometimes quite slow in adopting new technologies when it isn’t immediately obvious to me at first sight in what way they might benefit me personally. Mobile phone? No, I have one at home. Tabbed browsing? No, I have Exposé on Mac OS X. RSS-feed reader? No, I have bookmarks in my browser. Now I use all those mentioned. But I still refuse to use some stuff like multiple Desktops (aka Spaces) or digital television (I watch video mostly on my computer anyway) for example.

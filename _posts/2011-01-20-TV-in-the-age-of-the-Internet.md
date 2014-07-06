@@ -2,7 +2,7 @@
 layout: post
 title:  "TV in the age of the Internet"
 date:   2011-01-20
-categories: tech
+tags: tech
 ---
 
 > If the networked TV of 2013 has as much CPU and GPU horsepower as, say, the iMac of 2010, and if the software environment is suitably flexible and extensible (via app stores or hacking), then why would you need an HTPC, AppleTV, media extender, or DVR? Indeed, such a TV would have much more gaming horsepower than the current generation of consoles, so you might be able to skip those, too. And if 2TB or so of storage is good enough for you, why would you need separate NAS or fileserver.

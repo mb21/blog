@@ -2,7 +2,7 @@
 layout: post
 title:  "Marglin’s “The Dismal Science: How Thinking Like an Economist Undermines Community”"
 date:   2009-09-29
-categories: society
+tags: society
 ---
 
 I just read Stephen A. Marglin’s [The Dismal Science: How Thinking Like an Economist Undermines Community](http://www.hup.harvard.edu/catalog/MARDIS.html). He questions some fundamental assumptions of mainstream economic theory and makes the case for a more humane understanding of society. I found a great part of the book really interesting but I’m missing a conclusive ending. Anyway, here’s my personal summary in keywords which neither claims to be comprehensive nor one hundred per cent accurate.

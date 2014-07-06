@@ -2,7 +2,7 @@
 layout: post
 title:  "Marcel Wanders between Art and Design"
 date:   2014-05-29
-categories: design
+tags: design
 ---
 
 After walking through yet another museum’s collection of the internationally established canon of modern art, I was amazed to discover a temporary exhibition that felt so immediate and contemporary: “Marcel Wanders: Pinned Up At The Stedelijk, 25 Years of Design”

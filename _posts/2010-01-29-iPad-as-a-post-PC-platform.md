@@ -2,7 +2,7 @@
 layout: post
 title:  "iPad as a post-PC platform"
 date:   2010-01-29
-categories: tech design
+tags: tech design
 ---
 
 What does the Apple [iPad](http://www.apple.com/ipad/) need to become a viable replacement for your laptop?

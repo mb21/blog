@@ -2,7 +2,7 @@
 layout: post
 title:  "A shift towards design as problem solving"
 date:   2011-12-26
-categories: design
+tags: design
 ---
 
 The last year or two I have noticed more and more designers talking about changing the meaning of *design* or at least what the *design profession* is about. They are advocating a shift away from just designing beautiful graphics and creating smart solution to isolated problems towards understanding *design* really as a school or a way of problem solving. This notion was probably first articulated in the term [Design Thinking](http://en.wikipedia.org/wiki/Design_thinking).

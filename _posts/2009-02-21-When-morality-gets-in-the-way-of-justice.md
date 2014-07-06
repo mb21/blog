@@ -2,7 +2,7 @@
 layout: post
 title:  "When morality gets in the way of justice"
 date:   2009-02-21
-categories: society philosophy
+tags: society philosophy
 ---
 
 This [TED Talk](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html) tries to explain the different views that political conservatives and liberals have on issues of justice and morality. Jonathan Haidt thinks that humans have five innate psychological systems that are the foundations of their moral views.

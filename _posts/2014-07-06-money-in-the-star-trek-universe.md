@@ -2,7 +2,7 @@
 layout: post
 title:  Money in the Star Trek universe
 date:   2014-07-06
-categories: society movies
+tags: society movies
 ---
 
 I’ve [written before]({{site.baseurl}}/society/2014/05/11/Why-we-need-an-unconditional-basic-income-stagnating-economic-growth,-automation-and-commons-based-peer-production.html) about how our scarcity-based and exponentially growing economy will come to an end — one way or another. This time, let’s peek a bit further into the future.

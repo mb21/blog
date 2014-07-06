@@ -2,7 +2,7 @@
 layout: post
 title:  "Beauty as the balance between simplicity and complexity"
 date:   2009-06-07
-categories: philosophy design
+tags: philosophy design
 ---
 
 All beauty lies in the tension between order and chaos, simplicity and complexity, pattern and randomness.

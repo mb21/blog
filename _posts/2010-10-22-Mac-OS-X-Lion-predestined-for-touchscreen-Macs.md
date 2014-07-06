@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac OS X Lion predestined for touchscreen Macs"
 date:   2010-10-22
-categories: tech
+tags: tech
 ---
 
 ![]({{site.url}}/assets/2010-10-22-Mac-OS-X/touchscreen_macs.jpeg "Touchscreen Macs")

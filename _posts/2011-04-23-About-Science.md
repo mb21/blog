@@ -2,7 +2,7 @@
 layout: post
 title:  "About Science"
 date:   2011-04-23
-categories: philosophy tech
+tags: philosophy tech
 ---
 
 The word “science” is from Latin “scientia” which was one of several words for “knowledge” in that language. For Aristotle, *scientific knowledge* was a body of reliable knowledge that can be logically and rationally explained (Source: [Wikipedia](http://en.wikipedia.org/wiki/Science)). This understanding of the term *science* dominanted for many hundreds of years and was often used interchangeably with the term *philosophy*. It was only in the 20th century that the natural sciences (physics, chemistry, biology, etc.) came to dominate and the meaning of the term *science* changed. *Science* in the English language now usually refers to what used to be known only as *natural science*. But in many European languages, the word that corresponds to the English *science* continues to carry the former meaning.

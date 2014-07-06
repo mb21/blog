@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS 7′s Redesign"
 date:   2013-06-12
-categories: tech design
+tags: tech design
 ---
 
 When the iPhone debuted, it set the standard for a lot of things, among them the GUI of a touch-based mobile operating systems. But that was in 2007, and the design of iOS has gotten a bit stale and heavy by today’s standards. [Some even say](http://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible) that “iOS is the Windows XP for mobile devices” – its familiarity is loved by so many that it’s going to be hard for Apple to make radical changes. But yesterday, Apple did just that: it introduced [iOS 7](http://www.apple.com/ios/ios7/#video) which finally brings a clean redesign of the whole GUI, while keeping all the elements at their familiar places. So, is it any good?

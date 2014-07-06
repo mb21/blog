@@ -2,7 +2,7 @@
 layout: post
 title:  "John Searle wrongs Computer Programs by denying them the Possibility for Consciousness"
 date:   2013-07-24
-categories: philosophy
+tags: philosophy
 ---
 
 This is a [great talk](http://www.ted.com/talks/john_searle_our_shared_condition_consciousness.html), go watch it first. I agree with everything John Searle says, except for his point that a computer program without special hardware can never claim to be conscious.

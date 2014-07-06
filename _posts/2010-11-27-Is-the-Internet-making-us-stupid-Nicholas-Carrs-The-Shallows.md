@@ -2,7 +2,7 @@
 layout: post
 title:  "Is the Internet making us stupid? – Nicholas Carr’s The Shallows"
 date:   2010-11-27
-categories: society tech
+tags: society tech
 ---
 
 I have just finished Nicholas Carr’s book [The Shallows](http://www.theshallowsbook.com/) in which he makes the argument that while the internet has its benefits, it basically makes us stupid. He claims that using the internet improves our ability to sift through large chunks of data quickly while at the same time we cannot concentrate at one thing at a time anymore. We only read headlines and a few sentences on websites to then head off to click on a link or check our mail, newsfeed reader, etc. We loose our ability to *read deep* and focus on the subject matter, think about it clearly and instead get always distracted – or what others call*multitasking*. He goes further and argues that these habits have a lasting impact on our brain whose circuits are rewired to get better at superficial and shallow reading and thinking while at the same time lessens our ability to follow and make complicated and extended arguments. And in order to memorize facts or a concept we need to focus and engage our mind with it for some amount of time, otherwise it will not make the jump from short to long-term memory.

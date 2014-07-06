@@ -2,7 +2,7 @@
 layout: post
 title:  "Escaping the collapsing global socio-economic system"
 date:   2010-07-11
-categories: society
+tags: society
 ---
 
 People don’t like rapid change. They prefer things to stay more or less the way they know and have gotten used to them. So if you tell them that their world is going to stand upside down in only a few decades they prefer to ignore that and hope that they’ll just be able to continue with business and life as usual. I’m like that, too. But let’s be realistic. This world is going to change drastically – whether you want it to or not.

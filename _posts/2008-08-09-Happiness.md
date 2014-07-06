@@ -2,7 +2,7 @@
 layout: post
 title:  "Happiness"
 date:   2008-08-09
-categories: philosophy
+tags: philosophy
 ---
 
 I watched [this video of a talk by Martin Seligman](http://blog.ted.com/2008/07/why_is_psycholo.php) on TED.com (there are really tons of videos of great talks from TED conferences there). He is a psychologist and when he talks about *happiness* in his framework of *positive psychology*, he seperates happiness into three different kind of things:

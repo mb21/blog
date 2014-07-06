@@ -2,7 +2,7 @@
 layout: post
 title:  "“Snowpiercer” as an Allegory"
 date:   2014-03-23
-categories: movies
+tags: movies
 ---
 
 ![Snowpiercer still](http://twitchfilm.com/assets_c/2013/08/rsz_2013_-_snowpiercer_still_1-thumb-630xauto-40884.jpg)

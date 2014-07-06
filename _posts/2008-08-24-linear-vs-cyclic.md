@@ -2,7 +2,7 @@
 layout: post
 title:  "linear vs. cyclic"
 date:   2008-08-24
-categories: philosophy
+tags: philosophy
 ---
 
 ![linear-vs-cyclic]({{site.url}}/assets/2008-08-24-linear-vs-cyclic/linear-vs-cyclic.png)

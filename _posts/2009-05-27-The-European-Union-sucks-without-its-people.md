@@ -2,7 +2,7 @@
 layout: post
 title:  "The European Union sucks without its people"
 date:   2009-05-27
-categories: society
+tags: society
 ---
 
 ![Flag of Europe](http://mb2100.files.wordpress.com/2009/05/125px-flag_of_europe-svg.png?w=696 "Flag of Europe")Yes, the current EU sucks. But it still is the best platform we have to tackle problems that concern the whole of Europe and which no country can solve alone (like global warming) as well as to facilitate collaboration (like the free movement of goods and people and the Euro).

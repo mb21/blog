@@ -2,7 +2,7 @@
 layout: post
 title:  "Making a Dent in the Universe"
 date:   2013-01-26
-categories: society
+tags: society
 ---
 
 > Leadership is the art of getting someone else to do something you want done because he wants to do it.\

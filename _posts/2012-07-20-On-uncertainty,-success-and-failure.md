@@ -2,7 +2,7 @@
 layout: post
 title:  "On uncertainty, success and failure"
 date:   2012-07-20
-categories: philosophy
+tags: philosophy
 ---
 
 The truth is, most things aren’t as predictable as we’ve come to believe them to be. There are just way too many factors at play, too many unknown variables, and too many variable we don’t even know that we would have to take into consideration.

@@ -2,7 +2,7 @@
 layout: post
 title:  "XQuery, Node.js and Opa – which is the “new Java” of web development?"
 date:   2012-05-19
-categories: tech
+tags: tech
 ---
 
 I know it’s dangerous to draw conclusions from analogies, but what are we supposed to learn from, if not from the past?

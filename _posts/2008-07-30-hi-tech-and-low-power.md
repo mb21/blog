@@ -2,7 +2,7 @@
 layout: post
 title:  "hi tech and low power"
 date:   2008-07-30
-categories: tech society
+tags: tech society
 ---
 
 > I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him back safely to the earth.

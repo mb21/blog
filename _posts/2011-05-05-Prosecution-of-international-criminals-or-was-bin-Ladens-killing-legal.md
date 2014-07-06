@@ -2,7 +2,7 @@
 layout: post
 title:  "Prosecution of international criminals – or was bin Laden’s killing legal?"
 date:   2011-05-05
-categories: society
+tags: society
 ---
 
 Osama bin Laden was killed by US special forces in Pakistan on May 2 2011. Was this killing legal?

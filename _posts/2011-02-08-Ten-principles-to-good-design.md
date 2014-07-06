@@ -2,7 +2,7 @@
 layout: post
 title:  "Ten principles to “good design”"
 date:   2011-02-08
-categories: design
+tags: design
 ---
 
 Just watched a short [interview-video](http://vimeo.com/7917568) with [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams). And here his ten principles to “good design”:

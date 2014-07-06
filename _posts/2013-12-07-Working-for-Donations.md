@@ -2,7 +2,7 @@
 layout: post
 title:  "Working for Donations"
 date:   2013-12-07
-categories: society
+tags: society
 ---
 
 Let me start by saying that I really like the premise of effective altruism. Namely:

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Top Seven Movies I watched in 2013"
 date:   2013-12-22
-categories: movies
+tags: movies
 ---
 
 The top seven movies I watched this year, in no particular order.

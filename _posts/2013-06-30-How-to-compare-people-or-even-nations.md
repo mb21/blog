@@ -2,7 +2,7 @@
 layout: post
 title:  "How to compare people, or even nations?"
 date:   2013-06-30
-categories: society philosophy
+tags: society philosophy
 ---
 
 How should two different entities relate to each other?

@@ -2,7 +2,7 @@
 layout: post
 title:  "Margrit Kennedy’s Interest and Inflation Free Money"
 date:   2010-01-11
-categories: society
+tags: society
 ---
 
 So here comes another personal summary of a book I read. And again, it neither claims to be comprehensive nor one hundred per cent accurate. The book is Margrit Kennedy’s [Interest & Inflation Free Money](http://www.margritkennedy.de/index.php?id=96&ord=55). I read the newest revision in German from 2006 which I think hasn’t been translated to English yet. The text is available online in several editions though.

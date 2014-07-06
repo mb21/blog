@@ -2,7 +2,7 @@
 layout: post
 title:  "JSON-LD"
 date:   2014-07-03
-categories: tech
+tags: tech
 ---
 
 Personally, I find RDF/XML the most horrible serialization of a graph and a lot can be said against specific RDF tools. However, I think the basic model of RDF is pretty sound: everything is expressed as a bunch of triples, each of the format "subject predicate object" (e.g. "Peter knows Manu"), where all three words can actually be expanded to fully qualified IRIs, or the object can also be a literal. An IRI is a [Internationalized resource identifier](http://en.wikipedia.org/wiki/Internationalized_resource_identifier) and a literal a string, number, date or similar which can also be typed.

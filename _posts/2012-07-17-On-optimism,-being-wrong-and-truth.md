@@ -2,7 +2,7 @@
 layout: post
 title:  "On optimism, being wrong and truth"
 date:   2012-07-17
-categories: philosophy
+tags: philosophy
 ---
 
 A very good TED Talk by [Tali Sharot on The optimism bias](http://www.ted.com/talks/tali_sharot_the_optimism_bias.html) tells us something many of us have known (or shall we say suspected) already for a long time: the brains of healthy (non-depressed) people are fundamentally tilted towards optimism. For example, even when told that 40% of all marriages break, newly married people still don’t think there is a possibility they’ll get divorced. Likewise we underestimate the likelihood that bad things will happen to us personally. Sharot suggests that when doing financial budgets or when in dangerous situations, we should remember that we have this innate bias and calculatingly adjust for it. But most of the time, the human optimism bias is a good thing. Otherwise we would never dare to venture into anything new or risky.

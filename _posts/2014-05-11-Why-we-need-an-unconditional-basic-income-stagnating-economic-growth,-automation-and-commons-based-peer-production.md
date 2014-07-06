@@ -2,7 +2,7 @@
 layout: post
 title:  "Why we need an unconditional basic income – stagnating economic growth, automation and commons-based peer production"
 date:   2014-05-11
-categories: society
+tags: society
 ---
 
 With this post I’m going to try to piece a few things together that I’ve been thinking about in recent years. If you’re not familiar with one argument or line of thought: please follow the links!
