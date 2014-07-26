@@ -5,7 +5,9 @@ date:   2009-05-27
 tags: society
 ---
 
-![Flag of Europe](http://mb2100.files.wordpress.com/2009/05/125px-flag_of_europe-svg.png?w=696 "Flag of Europe")Yes, the current EU sucks. But it still is the best platform we have to tackle problems that concern the whole of Europe and which no country can solve alone (like global warming) as well as to facilitate collaboration (like the free movement of goods and people and the Euro).
+![Flag of Europe](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg "Flag of Europe")
+
+Yes, the current EU sucks. But it still is the best platform we have to tackle problems that concern the whole of Europe and which no country can solve alone (like global warming) as well as to facilitate collaboration (like the free movement of goods and people and the Euro).
 
 The EU has become so undemocratic because right after the two world wars, the politicians didn’t trust the people to do the right thing, to start building a new Europe based on mutual interests instead of confrontation. And probably they were right, the people wouldn’t have dared to trust their former enemies. But now this time is long over and the political elite has to learn to let go and give more power over Europe back to its people.
 

@@ -9,7 +9,7 @@ So here comes another personal summary of a book I read. And again, it neither c
 
 ### 1. Five Basic Misconceptions About Money
 
-![]({{site.url}}/assets/2010-01-11-kennedy/growth_patterns.jpg "growth_patterns")
+![]({{site.url}}/assets/2010-01-11-kennedy/growth_patterns.jpg "growth patterns")
 
 and the truth:
 
@@ -20,6 +20,8 @@ and the truth:
 -   The current monetary system is prone to volatilities and repeating crisis, fixed towards growth no matter what, in favour of the already rich and because every sustainable long-term investment needs to measure itself against short-term gainings and interest favours short-term thinking.
 
 ### Creating Interest and Inflation Free Money
+
+![When interest is replaced by a parking fee for money.]({{site.url}}/assets/2010-01-11-kennedy/circulation-guarantee.jpg "circulation guarantee")
 
 Already towards the end of the 19. century the German/Argentinian economist [Silvio Gesell](http://en.wikipedia.org/wiki/Silvio_Gesell) observed economic cycles, fluctuations in prices although there were no fluctuations in actual demand. One explanation is that when interest rates are low, people with money withhold it (no incentive to lend) and thus less will be bought (because people cannot take up loans) and therefore less produced, leading the economy into a down turn. Because money becomes scarce then, interest rates go up again, the people with money are more willing to lend it, spending goes up and everything goes smooth again, until there is too much money (little demand for more) and interest rates start dropping again.
 
@@ -43,7 +45,7 @@ Such a monetary reform would abolish inflation and the flow of money as interest
 -   Agriculture: more sustainable and ecological farming
 -   Artists: works of art would be a save storage of value (as opposed to money with a holding fee), so the demand for art would rise.
 -   Women and children: equal chances.
--   The Ecology of Our Planet: When the economy isn’t growing, the discrepancies between poor and rich, loaning and lending, become even more apparent. But through the infinite growth imperative, we are depleting our natural ressources. And as long as every financial investment has to measure up against the profit from interest, many long-term ecological investments won’t cut a deal. If you had 10’000\$ and had to choose between taking the money to the bank and getting 5% interest, or buying solar panels and earn only, say, 3% of your investment by selling that energy, what would you choose?. With neutral money there is no interest and the pressure to generate a high return on an investment would go away, too. When loaning money, you only have to pay back the amount you loaned instead of paying the interest on the interest on the debt which increases exponentionally the longer you wait.![](/DOKUME%7E1/Dieter/LOKALE%7E1/Temp/moz-screenshot.png)
+-   The Ecology of Our Planet: When the economy isn’t growing, the discrepancies between poor and rich, loaning and lending, become even more apparent. But through the infinite growth imperative, we are depleting our natural ressources. And as long as every financial investment has to measure up against the profit from interest, many long-term ecological investments won’t cut a deal. If you had 10’000\$ and had to choose between taking the money to the bank and getting 5% interest, or buying solar panels and earn only, say, 3% of your investment by selling that energy, what would you choose?. With neutral money there is no interest and the pressure to generate a high return on an investment would go away, too. When loaning money, you only have to pay back the amount you loaned instead of paying the interest on the interest on the debt which increases exponentionally the longer you wait.
 
 ### 6. Three Models of the Future
 
