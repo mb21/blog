@@ -5,6 +5,9 @@
   margin: 0;
   padding: 0;
 }
+ul ul, ol ol, ol ul, ul ol {
+    padding-left: 1em;
+}
 
 html, body { height: 100%; }
 

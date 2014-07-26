@@ -5,7 +5,7 @@ date:   2009-05-27
 tags: society
 ---
 
-![Flag of Europe](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg "Flag of Europe")
+![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg "Flag of Europe")
 
 Yes, the current EU sucks. But it still is the best platform we have to tackle problems that concern the whole of Europe and which no country can solve alone (like global warming) as well as to facilitate collaboration (like the free movement of goods and people and the Euro).
 
