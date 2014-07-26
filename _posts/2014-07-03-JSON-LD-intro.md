@@ -89,17 +89,16 @@ Say this document is located at `http://manu.sporny.org/me`, then that will be u
           "@type": "@id"
         }
       },
-      "@id": "http://manu.sporny.org/me",
       "name": "Manu Sporny",
       "schema:image": { ← Shorthands works also for prefixes
           "@id": "http://manu.sporny.org/images/manu.png"
       },
-      "homepage": "../home", ← all IRIs can also be relative to the base IRI,
+      "homepage": "/home", ← all IRIs can also be relative to the base IRI,
                              so this would expand to 'http://manu.sporny.org/home'
       "status": "trolling" ← terms that are not defined in the context are ignored
     }
 
-In addition to the usage of `"@type": "@"id"` in the context to declare that a value is an IRI, the `@type` keyword can also be used to specify the **node type** of the object. Specifying node types cannot be done in the context.
+In addition to the usage of `"@type": "@id"` in the context to declare that a value is an IRI, the `@type` keyword can also be used to specify the **node type** of the object. Specifying node types cannot be done in the context.
 
     {
       "@context": "http://json-ld.org/contexts/person.jsonld",

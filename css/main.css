@@ -26,6 +26,10 @@ img {
     max-width: 100%;
 }
 
+.creativecommons {
+    margin-top: 10px;
+}
+
 /* Utility */
 
 .wrap:before,
