@@ -4,9 +4,17 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl}}">
+    <link rel="canonical" href="{{ page.url | replace:'.html','' | prepend: site.url}}">
+
+  {% if page.is_post %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url | replace:'.html','' | prepend: site.url}}" />
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+    {% for tag in page.tags %}<meta property="article:tag" content="{{tag}}">{% endfor %}
+  {% endif %}  
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
-
 </head>
