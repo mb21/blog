@@ -241,6 +241,9 @@ blockquote cite {
   margin: 30px 0;
 }
 
+.post pre {
+  overflow: scroll;
+}
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
