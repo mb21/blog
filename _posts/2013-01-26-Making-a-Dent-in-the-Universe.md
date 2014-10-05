@@ -5,8 +5,9 @@ date:   2013-01-26
 tags: society
 ---
 
-> Leadership is the art of getting someone else to do something you want done because he wants to do it.\
->  – Dwight Eisenhower
+> Leadership is the art of getting someone else to do something you want done because he wants to do it.
+> 
+> —<cite>Dwight Eisenhower</cite>
 
 We all strive to make our [dent in the universe](http://www.macworld.com/article/1162827/steve_jobs_making_a_dent_in_the_universe.html). And while too much concentrated power is certainly a bad thing, nobody wants to be entirely powerless.
 

@@ -13,11 +13,15 @@ As a piece of art, interpreted as a critique of society’s lack of vision aroun
 
 But maybe Marcel Wanders is in fact sincere with his products and tries to give non-designers a version of design that they again can relate to.
 
-> A product must feel familiar. This is why he chooses elements that everyone recognizes because, for instance, they are based on historical sources of inspiration. — 2014 Stedelijk exhibition
+> A product must feel familiar. This is why he chooses elements that everyone recognizes because, for instance, they are based on historical sources of inspiration.
+> 
+> —<cite>2014 Stedelijk exhibition</cite>
 
 That may be his personal vision. To sidestep the problem of the late 1990s and the first decade of the 20th century’s lack of a shared vision.
 
-> Does the concept of future still exist in a culture in which a coherent vision has disappeared? — Marcel Wanders
+> Does the concept of future still exist in a culture in which a coherent vision has disappeared?
+> 
+> —<cite>Marcel Wanders</cite>
 
 Sometimes, the result feels like a “Best of IKEA”. It’s good design, no doubt about that. But for my taste, it’s often too much “bling bling”—too cheap and too extravagant at the same time. As a child of modernity, I’m still waiting for the good old future.
 

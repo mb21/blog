@@ -6,12 +6,12 @@ tags: tech society
 ---
 
 > I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him back safely to the earth.
-
-John F. Kennedy, 1961
+>
+> —<cite>John F. Kennedy, 1961</cite>
 
 > Our nation must commit to producing 100 percent of our electricity from renewable energy and other clean sources within 10 years.
-
-[Al Gore](http://www.wecansolveit.org/), 2008
+> 
+> —<cite>[Al Gore](http://www.wecansolveit.org/), 2008</cite>
 
 Well, I feel like all humanity (not only the US) has to solve this problem (and most other problems, too) together. But besides that, I think he’s right. we need to make the problem of climate change a positive challenge.
 

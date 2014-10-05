@@ -33,6 +33,10 @@ img {
     margin-top: 10px;
 }
 
+blockquote cite {
+    font-style: normal;
+}
+
 /* Utility */
 
 .wrap:before,
