@@ -12,6 +12,7 @@
   {% if page.is_post %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{ '/assets/mb21.svg' | prepend: site.url}}" />
     <meta property="og:url" content="{{ page.url | replace:'.html','' | prepend: site.url}}" />
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html }}">
