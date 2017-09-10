@@ -19,16 +19,22 @@ You would be forgiven to think for a moment about using Adobe InDesign in a head
 
 ### [Prince](http://www.princexml.com)
 - awesome
-- proprietary and expensive
+- proprietary and rather expensive license
+
+### [DocRaptor](https://docraptor.com)
+- Prince as a cloud service, with pricing per document conversion (see their [blog post](https://docraptor.com/blog/docraptor-vs-princexml/)).
+
+See also [print-css.rocks](https://www.print-css.rocks/) for a discussion of further commercial HTML/CSS-to-PDF engines and some tutorials.
 
 ### [wkhtmltopdf](http://wkhtmltopdf.org/)
 - based on the Qt WebKit rendering engine
 - WebKit devs don’t see printing as a priority: CSS3 paged media is [not implemented since 2007](https://bugs.webkit.org/show_bug.cgi?id=15548)
-- currently wkhtmltopdf [doesn’t even support hyphens](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/1730), could [use JavaScript](https://github.com/mnater/Hyphenator) instead…?
+- currently wkhtmltopdf [doesn’t even support hyphenation](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/1730), could [use JavaScript](https://github.com/mnater/Hyphenator) instead…?
 
 ### [WeasyPrint](http://weasyprint.org)
 - CSS layout engine written in Python
-- currently [doesn’t support CSS columns](https://github.com/Kozea/WeasyPrint/issues/60)
+- [supports CSS paged media](http://weasyprint.readthedocs.io/en/latest/features.html) (`@page` etc.)
+- currently doesn’t support some of the more esoteric CSS properties that are supported in WebKit.
 - doesn’t support JavaScript
 
 
@@ -43,3 +49,6 @@ From [Why is TeX still used?](https://news.ycombinator.com/item?id=2326545)
 > All true. Also, the way indexes, table of contents, bibliographies and cross references work in LaTeX are unholy, fragile hacks. Foot- and endnotes could use some TLC. And on 2011-era hardware we really should have some approximation of globally optimal page breaking.
 
 Never mind all the [other TeX variants](https://www.sharelatex.com/blog/2012/12/01/the-tex-family-tree-latex-pdftex-xelatex-luatex-context.html). [ConTeXt](http://wiki.contextgarden.net) is the least bad, but it’s still not CSS-based, which is for better or worse what everyone is familiar with.
+
+
+_P.S. This post received minor updates on September 10th, 2017._
