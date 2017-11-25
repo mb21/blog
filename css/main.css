@@ -241,6 +241,14 @@ blockquote cite {
   margin: 30px 0;
 }
 
+.post-content table {
+  border-collapse: collapse;
+}
+.post-content th, .post-content td {
+  border-bottom: 1px solid grey;
+  padding: 5px 15px 5px 0;
+}
+
 .post pre {
   overflow: scroll;
 }
