@@ -42,3 +42,5 @@ Coupled with [pandoc](http://pandoc.org/) as the markdown engine, we’d be alre
 Also, let’s say that to start with, you (as the user) edit the styles of the current document only. You can then later export and import these to use them as a template across documents (or let’s say they are stored in a system-wide template-library). But this means that you can change a global CSS template, but immediately you can only see the layout changes to the current document (and even then, only the part of the document which is in your viewport).
 
 Let’s see… hopefully I manage to work more on this.
+
+**Update:** I created a basic [proof of concept layouting app](https://mb21.github.io/GUI-CSS-Editor).
