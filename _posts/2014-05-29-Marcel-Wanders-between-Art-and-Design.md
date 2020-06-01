@@ -25,14 +25,14 @@ That may be his personal vision. To sidestep the problem of the late 1990s and t
 
 Sometimes, the result feels like a “Best of IKEA”. It’s good design, no doubt about that. But for my taste, it’s often too much “bling bling”—too cheap and too extravagant at the same time. As a child of modernity, I’m still waiting for the good old future.
 
-![Wanders Wonders]({{site.baseurl}}/assets/2014-05-29-wanders/vase.jpg)\ 
+![Wanders Wonders]({{site.baseurl}}/assets/2014-05-29-wanders/vase.jpg)
 
-![Zeppelin]({{site.baseurl}}/assets/2014-05-29-wanders/zeppelin.jpg)\ 
+![Zeppelin]({{site.baseurl}}/assets/2014-05-29-wanders/zeppelin.jpg)
 
-![babel]({{site.baseurl}}/assets/2014-05-29-wanders/babel.jpg)\ 
+![babel]({{site.baseurl}}/assets/2014-05-29-wanders/babel.jpg)
 
-![Knotted Chair]({{site.baseurl}}/assets/2014-05-29-wanders/knotted_chair.jpg)\ 
+![Knotted Chair]({{site.baseurl}}/assets/2014-05-29-wanders/knotted_chair.jpg)
 
-![interior]({{site.baseurl}}/assets/2014-05-29-wanders/interior.jpg)\ 
+![interior]({{site.baseurl}}/assets/2014-05-29-wanders/interior.jpg)
 
-![skygarder]({{site.baseurl}}/assets/2014-05-29-wanders/skygarder.jpg)\ 
+![skygarder]({{site.baseurl}}/assets/2014-05-29-wanders/skygarder.jpg)

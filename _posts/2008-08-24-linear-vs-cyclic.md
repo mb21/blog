@@ -17,10 +17,10 @@ Both ways of living can be extremely rewarding. The pleasure of having achieved 
 
 I feel like related concepts that go with the cyclist vs. linear concept are:
 
-cyclist vs. linear\
- static vs. progressive\
- save vs. dangerous\
- holistic, communitarian vs. individualistic, liberal\
- man is part of the environment vs. man controls his environment\
- ‘eastern’ vs. ‘western’ philosophy
+- cyclist vs. linear
+- static vs. progressive
+- save vs. dangerous
+- holistic, communitarian vs. individualistic, liberal
+- man is part of the environment vs. man controls his environment
+- ‘eastern’ vs. ‘western’ philosophy
 

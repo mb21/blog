@@ -11,6 +11,8 @@ Google understands this as well and is arguably in a better position regarding A
 
 It’s going to be interesting to see where Tesla ends up in all this. While they are currently ahead on the car and [battery construction](http://www.theverge.com/2015/2/13/8033691/why-teslas-battery-for-your-home-should-terrify-utilities) (think smart grid), it’s questionable whether they will be able to scale up, and scale out, to enter many other fields quickly enough on their own.
 
-![Ford concept car by Marc Newson, who is now working at Apple.]({{site.baseurl}}/assets/2015-02-14-Apple-building-a-car-makes-perfect-sense/marc-newson-car-2.jpg)
+![]({{site.baseurl}}/assets/2015-02-14-Apple-building-a-car-makes-perfect-sense/marc-newson-car-2.jpg)
 
 ![]({{site.baseurl}}/assets/2015-02-14-Apple-building-a-car-makes-perfect-sense/marc-newson-car-1.jpg)
+
+Above: Ford concept car by Marc Newson, who is now working at Apple.
