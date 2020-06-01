@@ -2,7 +2,7 @@
 
   <div class="wrap">
 
-    <a class="site-title" href="{{ site.baseurl }}">{{ site.name }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
     {% if site.pages.size > 2 %}
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -17,8 +17,16 @@
         </svg>
       </a>
       <div class="trigger">
-        {% for page in site.pages %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% capture temptags %}
+          {% for tag in site.tags %}
+            {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+          {% endfor %}
+        {% endcapture %}
+        {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+        {% for temptag in sortedtemptags %}
+          {% assign tagitems = temptag | split: '#' %}
+          {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+          <a class="page-link" href="{{site.baseurl}}/tags/{{ tagname }}">{{ tagname }}</a>
         {% endfor %}
       </div>
     </nav>

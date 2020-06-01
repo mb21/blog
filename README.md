@@ -1,18 +1,18 @@
-my blog
-====
+# my blog
 
-online at [mb21.github.io/blog](http://mb21.github.io/blog/)
+Online at [mb21.github.io/blog](http://mb21.github.io/blog/).
 
+Simply push to `master` to publish.
+
+
+## development
 
 Build locally to `_site`:
 
-    $ jekyll build
+    $ bundle exec jekyll build
 
 Build and serve on `http://localhost:4000/blog/index.html`:
 
-    $ jekyll serve
+    $ bundle exec jekyll serve
 
-Pull from `origin/master`, build and push to `gh-pages`:
-
-    $ gem install jgd
-    $ jgd
+Plugin-less tag generation [thanks to this post](http://longqian.me/2017/02/09/github-jekyll-tag/).
