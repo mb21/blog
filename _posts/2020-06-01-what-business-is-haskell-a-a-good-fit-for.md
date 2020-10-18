@@ -70,16 +70,9 @@ But while we’re stuck in the chicken-and-egg situation of not enough devs usin
 
 Or phrased differently: is there a way of working, where all other risks are reduced enough, so that the de-risking of the project by using a robust language actually removes a significant fraction of the total risk?[^2]
 
-<!--
-To list a few kinds of companies:
+If I had a good answer to this question, that might enable me to start a business using Haskell. What complicates matter further is that I’d also like my work to be meaningful (which for me precludes most of fintech), and not to be in vain (which is always a high risk with startups). Similarly, running a tech consultancy and doing a project, then “handing it over”, is often half-way to having it terminated already. So far, only small to medium enterprises with low turnover of programmers seem to be a good fit.
 
-- startups: using a robust language can help, but is by far not sufficient. so still high risk of your work being in vain.
-- big corporates: ability to hire dominates
-- tech consultancies: doing a project, then “handing it over”, is often half-way to having it terminated already.
-- small to medium enterprises with low turnover of programmers might be a good fit, like [Lumi](https://www.lumi.com)?
-- remote: talent pool much bigger
-
--->
+P.S. In his talk [How to market Haskell to a mainstream programmer](https://www.youtube.com/watch?v=fNpsgTIpODA), Gabriel Gonzalez makes also a convincing argument that to break the chicken-and-egg problem, key is breaking into one or two verticals or niche segments first.
 
 
 ---
