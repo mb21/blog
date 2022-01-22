@@ -72,7 +72,7 @@ The last of the trifecta to grow in number of lines of code was, of course, Java
 
 However, what’s arguably more interesting than native JavaScript modules, is the kind of components that JavaScript frameworks and libraries have come up with to build GUIs. In [React](https://reactjs.org), for example, a component is simply a JavaScript function that takes some properties and returns an element. React elements are usually written in an HTML-like syntax called [JSX](https://reactjs.org/docs/introducing-jsx.html), but they are actually JavaScript objects that later will be rendered and inserted into the DOM. For example:
 
-```
+```jsx
 const helloComponent = function(name){
   return <h1>Hello, {name}</h1>;
 }
@@ -87,7 +87,7 @@ The input properties of components don’t need to be strings either, they can b
 
 With all our HTML now being contained in JavaScript modules, where does that leave CSS? Wouldn’t it be natural to merge our BEM-components in there as well? That’s exactly the idea of [CSSinJS](http://cssinjs.org): we can write JavaScript that then gets converted to CSS. For example:
 
-```
+```jsx
 import React from 'react'
 import injectSheet from 'react-jss'
 import base from 'my-project-base-css'
@@ -117,7 +117,7 @@ export default injectSheet(styles)(HelloComponent)
 
 Which will render to something like:
 
-```
+```html
 <style>
 .title-123456 {
   font-size: 24px;
