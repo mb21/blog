@@ -7,15 +7,16 @@ tags:   tech
 
 ---
 
-This is the last part of a three-part series:
+This is the third part of a four-part series:
 
 - [Part 1: What is functional programming?](/blog/2021/01/23/functional-programming.html)
 - [Part 2: Pure functional programming and shared mutable state](/blog/2021/01/23/pure-functional-programming-and-shared-mutable-state.html)
 - Part 3: Pure functional programming in JavaScript
+- [Part 4: Composable abstractions in practice](/blog/2021/09/11/composable-abstractions.html)
 
 ---
 
-In the first part of this blog series, we looked at the functional programmimg style with some examples given in JavaScript. In the second part, we looked at pure functional programming and why shared mutable state is the root of all evil. In this final part we look at what pure functional programming can mean in JavaScript.
+In the first part of this blog series, we looked at the functional programmimg style with some examples given in JavaScript. In the second part, we looked at pure functional programming and why shared mutable state is the root of all evil. In this third part we look at what pure functional programming can mean in JavaScript.
 
 
 ### React.js

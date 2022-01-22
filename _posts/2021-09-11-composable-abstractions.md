@@ -5,6 +5,15 @@ layout: post
 tags: tech
 ---
 
+This is the final part of a four-part series:
+
+- [Part 1: What is functional programming?](/blog/2021/01/23/functional-programming.html)
+- [Part 2: Pure functional programming and shared mutable state](/blog/2021/01/23/pure-functional-programming-and-shared-mutable-state.html)
+- [Part 3: Pure functional programming in JavaScript](/blog/2021/01/23/pure-functional-programming-in-javascript.html)
+- Part 4: Composable abstractions in practice
+
+---
+
 All programming can be seen as coming up with [abstractions](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6) and using them to build even higher abstractions.
 
 This pyramid of abstractions can be seen on the system level (hardware > operating system > application), but also in the evolution of programming languages themselves. I've picked four representative languages, each one at a higher level of abstraction than the previous one:

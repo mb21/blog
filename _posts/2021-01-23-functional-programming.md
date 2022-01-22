@@ -7,11 +7,12 @@ tags:   tech
 
 ---
 
-This is the first part of a three-part series:
+This is the first part of a four-part series:
 
 - Part 1: What is functional programming?
 - [Part 2: Pure functional programming and shared mutable state](/blog/2021/01/23/pure-functional-programming-and-shared-mutable-state.html)
 - [Part 3: Pure functional programming in JavaScript](/blog/2021/01/23/pure-functional-programming-in-javascript.html)
+- [Part 4: Composable abstractions in practice](/blog/2021/09/11/composable-abstractions.html)
 
 ---
 
