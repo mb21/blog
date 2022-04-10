@@ -63,7 +63,8 @@ sealed class State {
 }
 
 fun render(state: State): String {
-    // still, exhaustiveness checking only works if the `when` is used as an expression like here
+    // still, exhaustiveness checking only works if the
+    // `when` is used as an expression, like here
     return when (state) {
         is State.Loading -> "..."
         is State.LoggedOut -> "Please log in..."
@@ -125,11 +126,12 @@ type User = {
 
 type State = 'loading' | 'loggedOut' | User
 
-// it's important to put a return type here, otherwise exhaustiveness checking will not work
+// it's important to put a return type here,
+// otherwise exhaustiveness checking will not work
 const render = (state: State): string => {
   switch (state) {
     // js switch can only match on primitive types like strings
-    // in this example, we can abuse default case to reach the `User` object
+    // in this example, we can abuse default case to reach the User object
     case 'loading': return '...'
     case 'loggedOut': return 'Please log in...'
     default: return `Logged in as ${state.name}`
@@ -148,7 +150,10 @@ type User = {
   name: string;
 }
 
-type State = { type: 'loading' } | { type: 'loggedOut' } | { type: 'user'; user: User }
+type State =
+  { type: 'loading' } |
+  { type: 'loggedOut' } |
+  { type: 'user'; user: User }
 
 const render = (state: State): string => {
   switch (state.type) {
