@@ -54,7 +54,7 @@ The next four sections paraphrase the post [Four Key Concepts](https://fsharpfor
 
 ### 1. Functions over objects
 
-Different object-oriented programming languages have different notions of objects. But functional programming is always about applying and composing small functions to build larger functions.
+Different object-oriented programming languages have different notions of objects, but most bundle data (fields) and functions (methods) together. Functional programming is about cleanly separating the two. Then, functions can be applied to the data, and several small functions can be composed to build larger functions.
 
 To do functional programming, your language at least need to have functions as first-class citizens: i.e. functions can be assigned to variables[^1] and passed to other functions like any other value.
 
