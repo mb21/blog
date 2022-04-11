@@ -27,7 +27,7 @@ struct User {
 enum State {
     case loading
     case loggedOut
-    case loaded(user: User)
+    case loaded(User)
 }
 
 func render(state: State) -> String {
@@ -39,7 +39,7 @@ func render(state: State) -> String {
 }
 
 let user = User(email: "me@gmail.com", name: "me")
-let state = State.loaded(user: user)
+let state = State.loaded(user)
 print(render(state: state))
 ```
 
