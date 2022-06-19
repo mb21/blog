@@ -60,7 +60,7 @@ Then the post makes a good observation:
 
 For those “business applications”, the advantages of Haskell are outweighed by the huge disadvantage of not having a big developer pool readily available for growing a team and quickly filling in replacements.
 
-Also, what dominates the code of those apps is simply transforming data from one representation to another: i.e. I/O across system-, team- and/or human/machine-boundaries and interfaces. (That’s why I think it’s amazing that something like [Airtable](https://airtable.com) hasn’t “taken over the world” for CRUD GUIs.) But when all you need to do is read in some JSON, change one field, and spit it out again, Haskell doesn’t help you much. Its strengths only come into play once you’ve parsed the data into your [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type). And figuring out what the right ADT is, boils down to defining the [semantics of the data, which is harder to agree on the more people you are](/blog/2014/10/05/In-Search-of-Truth-for-Knowledge-based-Systems.html). And that's where we’re sort of back to the point about requirements – if you've gotten all the involved people to use a shared vocabulary and langauge, and agree on the requirements, you've already solved the hardest problem in most business applications. (That's my intuition for why Unison won't work.)
+Also, what dominates the code of those apps is simply transforming data from one representation to another: i.e. I/O across system-, team- and/or human/machine-boundaries and interfaces.[^2] But when all you need to do is read in some JSON, change one field, and spit it out again, Haskell doesn’t help you much. Its strengths only come into play once you’ve parsed the data into your [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type). And figuring out what the right ADT is, boils down to defining the [semantics of the data, which is harder to agree on the more people you are](/blog/2014/10/05/In-Search-of-Truth-for-Knowledge-based-Systems.html). And that's where we’re sort of back to the point about requirements – if you've gotten all the involved people to use a shared vocabulary and langauge, and agree on the requirements, you've already solved the hardest problem in most business applications.[^3]
 
 ### Chickens and eggs
 
@@ -68,7 +68,7 @@ To summarize: sure, better marketing to developers would help. And initiatives l
 
 But while we’re stuck in the chicken-and-egg situation of not enough devs using Haskell, and Haskell not being a good choice in industry because of not enough devs for hire – the question remains: what business model and problem is Haskell already now a good fit for?
 
-Or phrased differently: is there a way of working, where all other risks are reduced enough, so that the de-risking of the project by using a robust language actually removes a significant fraction of the total risk?[^2]
+Or phrased differently: is there a way of working, where all other risks are reduced enough, so that the de-risking of the project by using a robust language actually removes a significant fraction of the total risk?[^4]
 
 If I had a good answer to this question, that might enable me to start a business using Haskell. What complicates matter further is that I’d also like my work to be meaningful (which for me precludes most of fintech), and not to be in vain (which is always a high risk with startups). Similarly, running a tech consultancy and doing a project, then “handing it over”, is often half-way to having it terminated already. So far, only small to medium enterprises with low turnover of programmers seem to be a good fit.
 
@@ -79,4 +79,9 @@ P.S. In his talk [How to market Haskell to a mainstream programmer](https://www.
 
 [^1]: But do you need to be a [tech company](https://stratechery.com/2019/what-is-a-tech-company/)? Not necessarily. But if you’re doing software as a project (as opposed to a product), you’re doomed – and sometimes, the continued investment in software isn’t worth it, if you’re not creating an ecosystem or will benefit from zero marginal costs.
 
-[^2]: This question can also be asked not only about “using a robust language”, but about “using robust/proper engineering principles” in general. That’s a question that’s been bothering me personally for quite some time, as I tend to become quite dissatisfied when I’m forced to program in the mud.
+[^2]: That’s why I think it’s amazing that something like [Airtable](https://airtable.com) hasn’t “taken over the world” for CRUD GUIs yet. But [Notion](https://www.notion.so/) and [Coda](https://coda.io/) seem to prove this niche is at least expanding.
+
+[^3]: That's my intuition for why Unison won't work.
+
+[^4]: This question can also be asked not only about “using a robust language”, but about “using robust/proper engineering principles” in general. That’s a question that’s been bothering me personally for quite some time, as I tend to become quite dissatisfied when I’m forced to program in the mud.
+
