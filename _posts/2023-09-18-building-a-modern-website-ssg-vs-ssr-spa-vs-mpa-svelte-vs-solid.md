@@ -1,6 +1,6 @@
 ---
 title: Building a Modern Website? SSG vs. SSR, SPA vs. MPA, Svelte vs. Solid
-date: 2022-09-18
+date: 2023-09-18
 layout: post
 tags: tech
 ---
