@@ -77,8 +77,8 @@ const abs = (x) => {
 
 const abs = x =>
   x >= 0
-  ? x
-  : -x
+    ? x
+    : -x
 ```
 
 Expressions are much more composable than statements, since they can be arbitrarily nested. Composability is a key concept in functional programming.
@@ -97,23 +97,20 @@ An algebraic data type is defined by composing existing types in one of two ways
 An example in TypeScript:
 
 ```ts
-// the type boolean can represent 2 different values (true and false)
-
-type Color = 'red' | 'blue' | 'green' 
-
-type ColorAndBool = { a: Color; b: boolean; }
-// ColorAndBool is a product type (the product of the types Color and boolean)
-// it can represent 3 * 2 = 6 different values
-
-
+type Color = 'red' | 'blue' | 'green'
 type DarkColor = 'darkred' | 'darkblue'
 
-type MyColors = Color | DarkColor
-// MyColors is a sum type
-// it can represent 3 + 2 = 5 different values
+type Widget = { color: Color; hidden: boolean; }
+// The type boolean can represent 2 different values (true and false).
+// Widget is a product type (the product of the types Color and boolean).
+// It can represent 3 * 2 = 6 different values.
 
-type MyColors = Color | DarkColor | undefined
-// can represent 3 + 2 + 1 = 6 different values
+type MyColor = Color | DarkColor
+// MyColor is a sum type.
+// It can represent 3 + 2 = 5 different values
+
+type WidgetOrUndefined = Widget | undefined
+// can represent 6 + 1 = 7 different values
 ```
 
 
