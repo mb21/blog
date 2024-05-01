@@ -36,7 +36,11 @@ export const Popover = (props) =>
 
 Notice how child elements are passed to the component: in Astro you have to use a slot, similar to [HTML’s slot element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot), somehow mimicking how a poly-fill for native web functionality would work. But we’re running on a server here and rendering HTML to a string that will be sent over the network. There is no DOM, and Web Components will never be implemented in Node/Deno/whatever. In React/Solid, child elements are simply passed as `props.children` – just like any other component prop.
 
-I’m sympathetic to Astro’s argument of starting out with the least powerful tool in the toolkit, which is HTML, and later you might add some frontmatter containing JavaScript. It’s nice that non-developers can contribute and only need to write HTML. But either way you won’t get very far without having to learn some JavaScript. Just passing some props to a component requires you to do that already. And in both, Astro templates and JSX, we’re using a template system that’s embedded in its host language; meaning you can use arbitrary JavaScript syntax within the template, like `.map` and `condition ? exp1 : exp2` instead of<!-- {% raw %} -->
+I’m sympathetic to Astro’s argument of starting out with the least powerful tool in the toolkit, which is HTML, and later you might add some frontmatter containing JavaScript. It’s nice that non-developers can contribute and only need to write HTML.
+
+But even in Astro, you won’t get very far without having to learn some JavaScript. Just passing some props to a component requires you to do that already (for the line `const { title } = Astro.props`). In templating languages like handlebars, partials all live in a global namespace, whereas in Astro you need to use JavaScript import statements to be able to include your component in another page. It feels like Astro components live in this weird middle-ground: they try to be usable without JavaScript knowledge, but fail to be so for the most basic cases.
+
+In both Astro templates and JSX, we’re using a template system that’s embedded in its host language; meaning you can use arbitrary JavaScript syntax within the template, like `.map` and `condition ? exp1 : exp2` instead of<!-- {% raw %} -->
 `{{for}}` and `{{if condition}} exp1 {{else}} exp2 {{end}}`).
 <!-- {% endraw %} -->
 
