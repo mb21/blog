@@ -1,7 +1,7 @@
 ---
 ---
 :root {
-  --primary-color: red;
+  --primary-color: #e60000;
   --grey: #818181;
   --columns: 1fr 40em;
   --layout-space: 1.75rem;
@@ -25,6 +25,10 @@ body {
   word-wrap: break-word;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
+  background-color: var(--primary-color);
+  > * {
+    background-color: white;
+  }
 }
 
 p {
@@ -88,8 +92,6 @@ th, td {
 }
 
 .site-header {
-  /* border-bottom: 1px solid var(--primary-color); */
-
   a {
     text-decoration: none;
     font-size: 24px;
@@ -101,9 +103,12 @@ th, td {
 
 }
 
+main {
+  padding-bottom: 3em;
+}
+
 footer {
   border-top: 1px solid var(--primary-color);
-  margin-top: 5em;
   padding: var(--layout-space);
 
   a:not(:hover) {
@@ -143,9 +148,10 @@ footer {
     letter-spacing: -1.75px;
     line-height: 1.1;
     font-weight: 300;
-    margin: 30vh var(--layout-space) 1em var(--layout-space);
+    margin: 0;
+    padding: 30vh var(--layout-space) 1em var(--layout-space);
     @media (min-width: 1000px) {
-      margin-left: 0;
+      padding-left: 0;
     }
   }
   .meta, .article {
