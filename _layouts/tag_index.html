@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-<div class="home">
-<h1>Posts tagged “{{page.title}}”</h1>
-<ul class="posts">
+<p class='tags-title'>Posts tagged “{{page.title}}”</p>
+<ul class="home-page">
 {% for post in site.tags[page.tag] %}
   <li>
-    <time class="post-date" datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time>
-    <a class="post-link" href='{{post.url | prepend: site.baseurl}}'>{{post.title}}</a>
+    <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
-</div>

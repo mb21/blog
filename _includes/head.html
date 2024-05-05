@@ -1,26 +1,24 @@
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{site.baseurl}}/css/default.css">
     <link rel="stylesheet" href="{{site.baseurl}}/css/site.css">
     <link rel="stylesheet" href="{{site.baseurl}}/css/syntax-highlighting.css">
     <link rel="canonical" href="{{ page.url | replace:'.html','' | prepend: site.url}}">
   {% if page.path == "index.html"  %}
     <link rel="alternate" type="application/rss+xml" title="RSS"
-      href="{{ "/feed.xml" | prepend: site.baseurl }}" />
-  {% endif %}  
+      href="{{ "/feed.xml" | prepend: site.baseurl }}">
+  {% endif %}
   {% if page.is_post %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:image" content="{{ '/assets/mb21.png' | prepend: site.url}}" />
-    <meta property="og:url" content="{{ page.url | replace:'.html','' | prepend: site.url}}" />
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="{{ '/assets/mb21.png' | prepend: site.url}}">
+    <meta property="og:url" content="{{ page.url | replace:'.html','' | prepend: site.url}}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html }}">
     {% for tag in page.tags %}<meta property="article:tag" content="{{tag}}">{% endfor %}
-  {% endif %}  
+  {% endif %}
 </head>
 
 {% if site.tags != "" %}
