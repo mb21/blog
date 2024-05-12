@@ -31,7 +31,7 @@ body {
   }
 }
 
-p {
+p, h1, h2, h3, h4, h5, h6 {
   margin-top: 1.7em;
 }
 a {
@@ -45,7 +45,10 @@ img {
 }
 ol, ul {
   margin-top: 1.7em;
-  padding-left: 0;
+  padding-left: 1.2em;
+  @media (min-width: 1000px) {
+    padding-left: 0;
+  }
 }
 li > ol, li > ul {
   margin-top: 0;
