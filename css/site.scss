@@ -167,6 +167,7 @@ footer {
     padding: var(--layout-space);
     padding-bottom: 0;
     @media (min-width: 1000px) {
+      padding-top: 1.7em;
       grid-area: meta;
       text-align: right;
       margin: 0;
