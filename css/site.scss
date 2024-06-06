@@ -143,7 +143,8 @@ footer {
     grid-template-columns: var(--columns);
     grid-template-areas:
       ".    heading"
-      "meta article";
+      "meta article"
+      ".    comments";
   }
   > h1 {
     grid-area: heading;
@@ -177,6 +178,24 @@ footer {
       padding-left: 0;
       grid-area: article;
       border-top: 1px solid var(--primary-color);
+    }
+  }
+  .utterances {
+    max-width: unset;
+    margin: calc(2 * var(--layout-space)) 0 0 0;
+    @media (min-width: 1000px) {
+      margin-left: -61px;
+      grid-area: comments;
+    }
+  }
+  .utterances-frame {
+    box-sizing: border-box;
+    padding: 10px;
+    @media (min-width: 750px) {
+      padding: 0 var(--layout-space);
+    }
+    @media (min-width: 1000px) {
+      padding: 0;
     }
   }
   .footnotes {
