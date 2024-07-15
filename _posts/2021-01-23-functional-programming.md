@@ -5,8 +5,6 @@ layout: post
 tags:   tech
 ---
 
----
-
 This is the first part of a four-part series:
 
 - Part 1: What is functional programming?
